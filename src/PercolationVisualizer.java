@@ -1,6 +1,7 @@
 
 public class PercolationVisualizer 
 {
+	
 	public Percolation p;
 	private int N;
 	private double s;
